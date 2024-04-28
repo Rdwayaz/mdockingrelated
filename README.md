@@ -1,1 +1,1 @@
-Finds the bounding box of a molecule (PDB/PDBQT)
+Finds the bounding box volume of a molecule (PDB/PDBQT)
